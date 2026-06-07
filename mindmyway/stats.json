@@ -1,0 +1,11 @@
+{
+  "summons_count": 1,
+  "commits": 0,
+  "agent_interactions": 28,
+  "tool_switch_events": 2,
+  "manifest_fields_present": 9,
+  "manifest_fields_total": 12,
+  "dims_with_evidence": ["D1", "D2", "D3", "D4", "D5"],
+  "evidence_refs_count": 5,
+  "submitted_before_deadline": null
+}
