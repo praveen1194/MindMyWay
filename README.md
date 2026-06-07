@@ -1,4 +1,4 @@
-# Mind My Way 2
+# Mind My Way
 
 A demonstrator for a mobile mental health app (UK-focused) built at **VibeHack London 2026**. The app helps users journal their mental health state and surfaces AI-analysed insights to both the user and their clinician.
 
